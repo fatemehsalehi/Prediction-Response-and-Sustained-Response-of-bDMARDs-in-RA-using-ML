@@ -144,4 +144,3 @@ dependencies:
       - wrapt==1.16.0
       - xgboost==2.0.3
       - xgbse==0.2.3
-prefix: /Users/fatemehsalehi/opt/anaconda3/envs/RAproject
