@@ -18,7 +18,7 @@ This notebook trains and evaluates machine learning classifiers to predict treat
 
 ### Input Data 
 
-The clinical dataset used as input for the predictive models, including labels, can be found on Zenodo with the identifier doi:10.5281/zenodo.12507169!
+The clinical dataset used as input for the predictive models, including labels, can be found on Zenodo with the identifier doi:10.5281/zenodo.12507169.
 .
 
 Description:
